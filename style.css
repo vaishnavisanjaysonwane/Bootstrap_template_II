@@ -1,0 +1,21 @@
+.parentrow{
+    background-color:midnightblue;
+}
+.parent-head{
+    justify-content: space-between;
+}
+.text , .text1{
+    color: white;
+}
+.text:hover{
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.cont1{
+    justify-content: space-around;
+}
+.f-text{
+    align-items: center;
+    justify-content: center;
+}
